@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @F4NZ41
 - 👀 I’m interested in Computer science
-- 🌱 I’m currently learning AP computer science, Computer science - algorithms, and finally Infomedia.
+- 🌱 I’m currently learning AP computer science, Computer science - algorithms, and studying Infomedia.
 - 📫 How to reach me: DM me on twitter.
